@@ -1,6 +1,6 @@
 {
   "name": "envsyncer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sync your root .env files into monorepo subfolders with ease",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
